@@ -1,0 +1,1 @@
+скачайте [chromedriver](https://googlechromelabs.github.io/chrome-for-testing/), положите `.exe` файл в папку с ранее скачанным проектом.
